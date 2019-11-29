@@ -1,1 +1,2 @@
-# maquette-restaurant
+# maquet
+maquet
